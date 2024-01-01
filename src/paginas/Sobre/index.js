@@ -1,7 +1,7 @@
 import Topo from "../../componentes/Topo";
 import Rodape from "../../componentes/Rodape";
 
-import "./styles.css";
+import "./style.css";
 
 export default function Sobre() {
   return (
@@ -42,8 +42,8 @@ export default function Sobre() {
 
         <section className="container-secao-imagens">
           <div>
-            <img src="public/assets/sobre-image.jpg" alt="pessoas comendo sorvete" />
-            <img src='/public/assets/banner-sabores.jpg' alt="loja sorveteria" />
+            <img src='assets/sobre-image.jpg' alt="pessoas comendo sorvete" />
+            <img src='assets/sorveteria.jpg' alt="loja sorveteria" />
           </div>
         </section>
       </main>

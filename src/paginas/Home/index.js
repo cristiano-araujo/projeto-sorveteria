@@ -17,7 +17,7 @@ export default function Home() {
         </section>
 
         <section className="secao-nossos-sabores">
-          <img src="assets/banner-sabores.jpg" alt="sorvetes diversos" />
+          <img src='assets/banner-sabores.jpg' alt="sorvetes diversos" />
           <div className="texto-secao-nossos-sabores">
             <h2>NOSSOS SABORES</h2>
             <span>Novos e deliciosos!</span>
@@ -41,11 +41,11 @@ export default function Home() {
                 sorvete da sua vida! Venha nos conhecer e passar um tempo aqui com a gente.
               </p>
           </div>
-          <img src="assets/eventos-image.jpg" alt="mesa de festa" />
+          <img src='assets/eventos-image.jpg' alt="mesa de festa" />
         </section>
 
         <section className="secao-sobre-nos">
-          <img src="assets/sobre-image.jpg" alt="pessoas comendo sorvete" />
+          <img src='assets/sobre-image.jpg' alt="pessoas comendo sorvete" />
           <div className="texto-secao-sobre-nos">
             <h2>SOBRE NÓS</h2>
             <span>Alegria em cada casquinha!</span>
