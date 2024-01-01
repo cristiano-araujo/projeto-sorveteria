@@ -1,18 +1,18 @@
 {
   "files": {
     "main.css": "/projeto-sorveteria/static/css/main.2be9b0b2.css",
-    "main.js": "/projeto-sorveteria/static/js/main.e6ac1485.js",
+    "main.js": "/projeto-sorveteria/static/js/main.7f1acb89.js",
     "static/js/787.91907654.chunk.js": "/projeto-sorveteria/static/js/787.91907654.chunk.js",
     "static/media/banner-sobre.png": "/projeto-sorveteria/static/media/banner-sobre.e958a86cc903592d30f0.png",
     "static/media/banner-sabores.jpg": "/projeto-sorveteria/static/media/banner-sabores.0e325a982b455ed9676c.jpg",
     "static/media/banner-home.png": "/projeto-sorveteria/static/media/banner-home.a58e6b19f3f9b4c9c3dc.png",
     "index.html": "/projeto-sorveteria/index.html",
     "main.2be9b0b2.css.map": "/projeto-sorveteria/static/css/main.2be9b0b2.css.map",
-    "main.e6ac1485.js.map": "/projeto-sorveteria/static/js/main.e6ac1485.js.map",
+    "main.7f1acb89.js.map": "/projeto-sorveteria/static/js/main.7f1acb89.js.map",
     "787.91907654.chunk.js.map": "/projeto-sorveteria/static/js/787.91907654.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.2be9b0b2.css",
-    "static/js/main.e6ac1485.js"
+    "static/js/main.7f1acb89.js"
   ]
 }
